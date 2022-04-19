@@ -24,3 +24,5 @@ Shift => SNARE;
 Space => low tom
 left arrow => hi-hat
 right arrow => crash
+
+ Youtube link demo: https://youtu.be/F_9q2rYJ_bY
